@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-29T20:30:02.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="gffiYyQ1dBIenBm8Bix5" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-29T22:56:51.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="YwklOnhoUhGTz3lvg0uK" version="12.3.3" type="github" pages="1">
   <diagram id="tm_EkmXWtd1kOCvAWD0z" name="Page-1">
     <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -180,8 +180,8 @@
             <mxPoint x="540" y="488" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kjUQHNFYOYEdBJwLmRYR-1" value="compare station" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="217" y="627" width="100" height="20" as="geometry"/>
+        <mxCell id="WZDv1Y6mK4r6WCS3grMf-1" value="Compare Station" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="550" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
