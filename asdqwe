@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-08T02:18:53.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="lDfhTHnlXkR1mfs_uOJv" version="13.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-08T02:23:08.282Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="CUVKR3oKzitgOBkHz7nL" version="13.6.1" type="github">
   <diagram id="tfNTAGj-fgYAzCFKCTVw" name="Page-1">
-    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,11 +37,11 @@
         <mxCell id="hRNSYdrgFzA-pX05vXaa-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-outline-24/24/wifi_router_internet_device_wifi_modem_wifi_signals_wireless_internet-128.png" vertex="1" parent="1">
           <mxGeometry x="1010" y="199" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hRNSYdrgFzA-pX05vXaa-12" value="Scanner 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="488" width="70" height="20" as="geometry" />
+        <mxCell id="hRNSYdrgFzA-pX05vXaa-12" value="Scanner 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fillColor=#2a2a2a;" vertex="1" parent="1">
+          <mxGeometry x="9" y="490" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hRNSYdrgFzA-pX05vXaa-13" value="Scanner 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="700" width="70" height="20" as="geometry" />
+        <mxCell id="hRNSYdrgFzA-pX05vXaa-13" value="Scanner 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fillColor=#2a2a2a;" vertex="1" parent="1">
+          <mxGeometry x="9" y="695" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hRNSYdrgFzA-pX05vXaa-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/wifi_router_internet_device_wifi_modem_wifi_signals_wireless_internet-128.png" vertex="1" parent="1">
           <mxGeometry x="740" y="389" width="70" height="70" as="geometry" />
@@ -76,8 +76,8 @@
         <mxCell id="hRNSYdrgFzA-pX05vXaa-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/security-double-colour-blue-black-vol-4/52/spy__person__agent__security-128.png" vertex="1" parent="1">
           <mxGeometry x="10" y="560" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="hRNSYdrgFzA-pX05vXaa-25" value="N Routers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="39" y="224" width="70" height="20" as="geometry" />
+        <mxCell id="hRNSYdrgFzA-pX05vXaa-25" value="N Routers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=24;fillColor=#2a2a2a;" vertex="1" parent="1">
+          <mxGeometry x="14" y="219" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
