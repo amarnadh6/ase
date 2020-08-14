@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-14T05:39:19.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="k-r8QC3Gkk0vSO0VdaHF" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-14T05:39:53.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="jQrBBWLvYGd_ZgUYeoVg" version="13.6.2" type="github">
   <diagram id="viUonWv3rwa7g0tC5TZW" name="Page-1">
     <mxGraphModel dx="1888" dy="1599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="Q4F3nC4aI2GeST_In285-5" value="Logstash" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#2a2a2a;" vertex="1" parent="1">
           <mxGeometry x="264" y="310" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Q4F3nC4aI2GeST_In285-6" value="ElasticSearch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Q4F3nC4aI2GeST_In285-6" value="ElasticSearch" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#2a2a2a;" vertex="1" parent="1">
           <mxGeometry x="539" y="180" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Q4F3nC4aI2GeST_In285-7" value="Kafka" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#2a2a2a;" vertex="1" parent="1">
